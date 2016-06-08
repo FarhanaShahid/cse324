@@ -1,4 +1,0 @@
-first line - commit 2
-second line - commit 2
-third line - commit 3
-fourth line - commit 3
